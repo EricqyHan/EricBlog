@@ -1,5 +1,6 @@
 ---
-title: "My First Blog Post"
+layout: ../../layouts/MarkdownPostLayout.astro
+title: "My Second Blog Post"
 pubDate: 2023-01-03
 description: "This is my first post of my new Astro blog for 2023."
 author: "Eric Han"
@@ -8,10 +9,6 @@ image:
   alt: "The Astro logo with the word One."
 tags: ["2023", "blogging", "communitytaught"]
 ---
-
-# My Second Blog Post
-
-Published on: 2023-01-03
 
 Welcome to my _second post_ about learning Astro and getting back into programming!
 

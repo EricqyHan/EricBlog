@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: "My First Blog Post"
 pubDate: 2023-01-02
 description: "This is my first post of my new Astro blog for 2023."
@@ -9,19 +10,15 @@ image:
 tags: ["2023", "blogging", "communitytaught"]
 ---
 
-# My First Blog Post
-
-Published on: 2023-01-02
-
 Welcome to my _new blog_ about learning Astro and getting back into programming! Here, I will share my learning journey as I build a new apps.
 
 ## What I've accomplished
 
-1. **Finished Setting Up Astro Blog**: I setup my astro blog today. 
+1. **Finished Setting Up Astro Blog**: I setup my astro blog today.
 
 2. **What I learned**: I would have had this blog ready yesterday, but I encountered an error with getting Astro setup. I had issues finding a lot of help in forums. I was getting a failure code 1 after selecting the type of project I wanted. This issue held me up for about 45 minutes of searching until I downgraded to Node 16 instead of 18. I was able to get it working after that.
 
-3. **Exercise** I *ran* 3.5 miles today. Was a slow and terrible run, but I made it outside. 
+3. **Exercise** I _ran_ 3.5 miles today. Was a slow and terrible run, but I made it outside.
 
 ## What's next
 
