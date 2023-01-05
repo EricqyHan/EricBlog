@@ -1,6 +1,9 @@
 ---
 import "../styles/global.css";
-import Navigation from "../components/Navigation.astro";
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+
+const pageTitle = "Eric's Main Blog Page";
 ---
 
 <html lang="en">
@@ -9,12 +12,16 @@ import Navigation from "../components/Navigation.astro";
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <title>Eric's Main Blog Page</title>
+    <title>{pageTitle}</title>
   </head>
   <body>
-    <Navigation />
-    <h1>Eric Han's Dev Blog</h1>
+    <Header />
+    <h1>{pageTitle}</h1>
     <h2>... And my new Astro Site!</h2>
     <p>I am working to document my year in tech for 2023</p>
+    <Footer />
+    <script>
+      import "../scripts/menu.js";
+    </script>
   </body>
 </html>
