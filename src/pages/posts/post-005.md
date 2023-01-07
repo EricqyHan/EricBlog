@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Deskhaus Detroit"
 pubDate: 2023-01-05
-description: "Day 4 of coding"
+description: "Day 5 of coding"
 author: "Eric Han"
 image:
   url: "../../images/DeskhausDetroit.svg"
