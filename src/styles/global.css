@@ -61,6 +61,10 @@ a:focus {
   display: unset;
 }
 
+#myblogposts {
+  list-style: none;
+}
+
 @media screen and (min-width: 636px) {
   .nav-links {
     margin-left: 5em;
