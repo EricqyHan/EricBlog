@@ -7,7 +7,7 @@ author: "Eric Han"
 image:
   url: "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
   alt: "The Astro logo with the word One."
-tags: ["astro", "blogging", "learning in public"]
+tags: ["astro", "blogging", "running"]
 ---
 
 Finished setting up my room along with my new standing desk. It was great using a standing desk last night at work. I was able to stand for two hours during work.

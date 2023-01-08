@@ -7,7 +7,7 @@ author: "Eric Han"
 image:
   url: "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
   alt: "The Astro logo with the word One."
-tags: ["astro", "blogging", "learning in public"]
+tags: ["astro", "blogging", "learning in public", "running"]
 ---
 
 ## What I've accomplished
