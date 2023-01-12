@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Upgrading to macOS Ventura and the dreaded 
+title: Upgrading to macOS Ventura and the dreaded
 author: Astro Learner
 description: "This post will show up on its own!"
 image:
@@ -10,10 +10,10 @@ pubDate: 2023-01-11
 tags: ["astro", "blogging"]
 ---
 
-I think I might have shin splints. The past few days my shins have really hurt and I can't run more than 100 meters without it hurting. I need to cut back on the running so it can heal. This is America and I can't afford to go to the hospital.
+Ordered my Vibram Five Finger running shoes last night. I want to get back into barefoot running since it really made sure I was having good form. Will update soon.
 
 ## What I've accomplished
 
-1. **Astro Blog** I need to create a better theme.
-2. **What I learned** Working on reviewing class 7 for 100Devs on CommunityTaught.org.
-3. **Exercise** Did some squatting today and pull ups since I can't run right now.
+1. **Astro Blog** Working on images
+2. **What I learned** Reading docs on getting images to work
+3. **Exercise** Walked about 3 miles today and got about 11,300 steps
