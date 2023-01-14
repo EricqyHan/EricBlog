@@ -16,7 +16,7 @@ const pageTitle = "My Blog";
           allPosts.map((post) => (
             <li>
               <a href={post.url}>
-                {post.frontmatter.title} -{" "}
+                {post.frontmatter.title} - // //{" "}
                 {post.frontmatter.pubDate.slice(0, 10)}
               </a>
             </li>

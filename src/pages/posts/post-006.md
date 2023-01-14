@@ -12,6 +12,8 @@ tags: ["astro", "blogging", "running"]
 
 Finished setting up my room along with my new standing desk. It was great using a standing desk last night at work. I was able to stand for two hours during work.
 
+![Deskhaus Standing Desk](../../images/DeskHausDesk.png)
+
 ## What I've accomlished today
 
 I finally got my home office the way I want it. It took me most of my Friday, but I can be so much productive now.
